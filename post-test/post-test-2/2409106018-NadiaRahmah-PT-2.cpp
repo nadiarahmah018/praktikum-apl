@@ -70,7 +70,7 @@ int main (){
                     cin >> inputHari;
                     // jika kondisi memenuhi Tambahan biaya
                     if (inputHari == 1) {
-                        hargaWeekend = 5000; 
+                        hargaWeekend = 5000; // Tambahan biaya untuk weekend
                         hari[JumlahTiket] = true;
                     } else if (inputHari == 2){
                         hargaWeekend = 0; // tidak ada tambahan karena weekday
