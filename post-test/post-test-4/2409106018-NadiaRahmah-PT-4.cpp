@@ -110,7 +110,6 @@ void menuTiket() {
         cout << "Pilih menu (1/2/3/4/5): ";
         int pilihan;
         cin >> pilihan;
-        cin.ignore();
         switch (pilihan) {
             case 1:
                 tambahTiket();
