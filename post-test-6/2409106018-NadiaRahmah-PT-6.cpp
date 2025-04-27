@@ -349,9 +349,9 @@ void hapusTiket() {
 }
 
 int main() {
-    cout << "==============================================================" << endl;
-    cout << "| SELAMAT DATANG DI APLIKASI PEMBELIAN TIKET MINI PLAYGROUND |" << endl;
-    cout << "==============================================================" << endl;
+    cout << "===============================================================" << endl;
+    cout << "| SELAMAT DATANG DI APLIKASI PEMBELIAN TIKET MINI PLAYGROUND  |" << endl;
+    cout << "===============================================================" << endl;
     cout << " Silakan registrasi atau login untuk mulai menggunakan.\n";
     menuUtama();
     return 0;
